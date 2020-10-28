@@ -22,5 +22,6 @@ A critical value is a line on a graph that splits the graph into sections. One o
 how far from mean value a datapoint eg:2sd away 1sd away..Z score=1.96 when the datapoint is 2sd away from center
 # P value
 probablity of observed or more extreme outcome given the null hypothesis is true
+
 probablity of alternative hypothesis is true given the null hypothesis is true
 p<0.05(significance value)(alpha)
