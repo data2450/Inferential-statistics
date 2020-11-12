@@ -25,3 +25,5 @@ probablity of observed or more extreme outcome given the null hypothesis is true
 
 probablity of alternative hypothesis is true given the null hypothesis is true
 p<0.05(significance value)(alpha)
+
+The P-value indicates how likely it is that the observed trend happened by chance, or is indeed reliable. The smaller the P-value, the more likely it is that the conclusions that you would draw from looking at this line are indeed reliable and something that you should trust. Now the convention is that you should only trust trend lines with P-values that are less than either 0.05, or 0.01. Now when you're using a P-value of 0.05, that means that there's a false positive rate of 5% or less. If you're using a P-value of 0.01, that means there is a false positive rate of 1% or less. So that gives you an idea of the things that you should consider important for your analysis. Now, this particular line has a P-value of 0.07. So one way to decide whether or not this effect is important for your analysis would be to say well, it's not under 0.05,
